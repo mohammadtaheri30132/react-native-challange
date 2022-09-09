@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "application/assets/fonts/IRANSansWebFaNum-Bold.ttf",
+      "sha1": "31c8510f528ab0843339f19fb8429d8f210ecca0"
+    },
+    {
+      "path": "application/assets/fonts/IRANSansWebFaNum-Light.ttf",
+      "sha1": "cc29ee3541f937a31503c4dee038cd9d4fc26615"
+    },
+    {
+      "path": "application/assets/fonts/IRANSansWebFaNum-Medium.ttf",
+      "sha1": "0ee2693ff9a6358d2830e13d63be166b1398f257"
+    },
+    {
+      "path": "application/assets/fonts/IRANSansWebFaNum-UltraLight.ttf",
+      "sha1": "be03bd02ed0610a2d192876a75a11576836ff567"
+    },
+    {
+      "path": "application/assets/fonts/IRANSansWebFaNum.ttf",
+      "sha1": "d55d187de518d2738796e5fbb6cb9d19a72fed4c"
+    },
+    {
+      "path": "application/assets/fonts/Shabnam-Bold-FD.ttf",
+      "sha1": "59e9ebe5ebf7343746d337e7164c01b36b1997c7"
+    },
+    {
+      "path": "application/assets/fonts/Shabnam-FD.ttf",
+      "sha1": "7e19a2c572e328e927a96aa4d1d81dd1f22990c5"
+    },
+    {
+      "path": "application/assets/fonts/Shabnam-Light-FD.ttf",
+      "sha1": "2e41a8d36c6c4266a3a005628061303fdc2f900e"
+    },
+    {
+      "path": "application/assets/fonts/Shabnam-Medium.ttf",
+      "sha1": "4683f4f3b77d6623f6ddc985c8976f5a1ca0a120"
+    }
+  ]
+}
